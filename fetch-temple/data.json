@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "name": "Kashi Vishwanath Temple",
+    "location": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "established_year": 1780,
+    "deity": "Lord Shiva",
+    "architecture_style": "Nagara",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Maha Shivaratri", "Shravan Month"]
+  },
+  {
+    "id": 2,
+    "name": "Meenakshi Amman Temple",
+    "location": {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "established_year": 1623,
+    "deity": "Meenakshi (Parvati) and Sundareswarar (Shiva)",
+    "architecture_style": "Dravidian",
+    "visiting_hours": {
+      "open": "05:00",
+      "close": "22:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Meenakshi Thirukalyanam", "Chithirai Festival"]
+  },
+  {
+    "id": 3,
+    "name": "Golden Temple",
+    "location": {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "country": "India"
+    },
+    "established_year": 1604,
+    "deity": "Guru Granth Sahib",
+    "architecture_style": "Sikh",
+    "visiting_hours": {
+      "open": "04:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Baisakhi", "Gurpurab"]
+  },
+  {
+      "id": 4,
+      "name": "Jagannath Temple",
+      "location": {
+        "city": "Puri",
+        "state": "Odisha",
+        "country": "India"
+      },
+      "deity": "Lord Jagannath",
+      "established_year": 1161,
+      "architecture_style": "Kalinga",
+      "visiting_hours": {
+        "open": "05:00 - 13:00",
+        "close": "16:00 - 21:00"
+      },
+      "entry_fee": 0,
+      "special_festivals": ["Rath Yatra", "Snana Purnima"],
+      "contact": {
+        "phone": "+91-6752-222002",
+        "website": "https://www.jagannath.nic.in"
+      }
+    },
+    {
+    "id": 5,
+    "name": "Ram Janmabhoomi Temple",
+    "location": {
+      "city": "Ayodhya",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "established_year": 2020,
+    "deity": "Lord Vishnu",
+    "architecture_style": "Nagara",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Vishnu Ekadashi", "Shravan Month"]
+  },
+  {
+    "id": 6,
+    "name": "Nataraja Temple",
+    "location": {
+      "city": "Chidambaram",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "established_year": 1610,
+    "deity": "Lord Shiva",
+    "architecture_style": "Dravidian",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Maha Shivaratri", "Shravan Month"]
+  },
+  {
+    "id": 7,
+    "name": "Shri Krishna Mandir",
+    "location": {
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "country": "India"
+    },
+    "established_year": 1710,
+    "deity": "Lord Vishnu",
+    "architecture_style": "Sikh",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Maha Janmashtami", "Shravan Month"]
+  },
+  {
+    "id": 8,
+    "name": "Konark Sun Temple",
+    "location": {
+      "city": " Konarak",
+      "state": "Odisha",
+      "country": "India"
+    },
+    "established_year": 1172,
+    "deity": "Sun",
+    "architecture_style": "Black Pagoda",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Solar Eclipse", "Shravan Month"]
+  },
+  {
+    "id": 9,
+    "name": "Krishna Janmabhoomi Temple",
+    "location": {
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "established_year": 1169,
+    "deity": "Lord Vishnu",
+    "architecture_style": "Nagara",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Maha Janmashtami", "Shravan Month"]
+  },
+  {
+    "id": 10,
+    "name": "Brihadisvara Temple",
+    "location": {
+      "city": "Gangaikonda Cholapuram",
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "established_year": 1720,
+    "deity": "Shiva & Durga",
+    "architecture_style": "Dravidian",
+    "visiting_hours": {
+      "open": "03:00",
+      "close": "23:00"
+    },
+    "entry_fee": 0,
+    "special_festivals": ["Maha Shivaratri", "Shravan Month"]
+  }
+  
+]
